@@ -1,0 +1,32 @@
+create table usuario(
+id serial primary key,
+    login varchar(100),
+    senha varchar(50),
+    perfil integer
+);
+insert into usuario(login,senha,perfil) values ('adm@gmail.com','adm',1),('usuario@gmail.com','usu',2);
+create table pessoa(
+id serial primary key,
+    nome varchar(50),
+    sobrenome varchar(50),
+    cpf varchar(15) unique,
+    rg varchar(15) unique,
+    telefone varchar(15) unique,
+    cep varchar(10),
+    rua varchar(50),
+    numero varchar(4),
+    id_usuario_fk integer,
+    constraint id_usu_fk foreign key(id_usuario_fk) references usuario(id)
+);
+insert into pessoa(nome,sobrenome,cpf,rg,telefone,cep,rua,numero,id_usuario_fk) values 
+('leonardo','vinicius','123.456.789-01','12.456.789-0','(11)4561-8956','08574-010','rua b','123',1),
+('glauco','tomita','321.654.654-78','32.456.123-8','(11)1234-7894','08568-150','rua h','784',2);
+create table mensagem(
+id serial primary key,
+	nome varchar(50),
+	sobrenome varchar(50),
+	email varchar(100),
+	telefone varchar(15),
+	data timestamp,
+	mensagem text
+	);

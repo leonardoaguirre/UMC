@@ -1,0 +1,6 @@
+C:\Users\alunocmc\Desktop\Lista-aula2(procedimentos-funções)\Lista-aula2(procedimentos-funções)\bin\Debug\Lista-aula2(procedimentos-funções).exe.config
+C:\Users\alunocmc\Desktop\Lista-aula2(procedimentos-funções)\Lista-aula2(procedimentos-funções)\bin\Debug\Lista-aula2(procedimentos-funções).exe
+C:\Users\alunocmc\Desktop\Lista-aula2(procedimentos-funções)\Lista-aula2(procedimentos-funções)\bin\Debug\Lista-aula2(procedimentos-funções).pdb
+C:\Users\alunocmc\Desktop\Lista-aula2(procedimentos-funções)\Lista-aula2(procedimentos-funções)\obj\Debug\Lista-aula2(procedimentos-funções).csprojResolveAssemblyReference.cache
+C:\Users\alunocmc\Desktop\Lista-aula2(procedimentos-funções)\Lista-aula2(procedimentos-funções)\obj\Debug\Lista-aula2(procedimentos-funções).exe
+C:\Users\alunocmc\Desktop\Lista-aula2(procedimentos-funções)\Lista-aula2(procedimentos-funções)\obj\Debug\Lista-aula2(procedimentos-funções).pdb

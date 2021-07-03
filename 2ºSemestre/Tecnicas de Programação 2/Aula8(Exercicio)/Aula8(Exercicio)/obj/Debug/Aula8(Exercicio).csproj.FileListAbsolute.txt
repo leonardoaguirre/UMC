@@ -1,0 +1,6 @@
+C:\Users\alunocmc\Desktop\Aula8(Exercicio)\Aula8(Exercicio)\bin\Debug\Aula8(Exercicio).exe.config
+C:\Users\alunocmc\Desktop\Aula8(Exercicio)\Aula8(Exercicio)\bin\Debug\Aula8(Exercicio).exe
+C:\Users\alunocmc\Desktop\Aula8(Exercicio)\Aula8(Exercicio)\bin\Debug\Aula8(Exercicio).pdb
+C:\Users\alunocmc\Desktop\Aula8(Exercicio)\Aula8(Exercicio)\obj\Debug\Aula8(Exercicio).csprojResolveAssemblyReference.cache
+C:\Users\alunocmc\Desktop\Aula8(Exercicio)\Aula8(Exercicio)\obj\Debug\Aula8(Exercicio).exe
+C:\Users\alunocmc\Desktop\Aula8(Exercicio)\Aula8(Exercicio)\obj\Debug\Aula8(Exercicio).pdb

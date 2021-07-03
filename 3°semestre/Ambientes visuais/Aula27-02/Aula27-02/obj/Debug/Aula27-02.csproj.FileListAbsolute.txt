@@ -1,0 +1,10 @@
+C:\Users\alunocmc\Desktop\Aula27-02\Aula27-02\bin\Debug\Aula27-02.exe.config
+C:\Users\alunocmc\Desktop\Aula27-02\Aula27-02\bin\Debug\Aula27-02.exe
+C:\Users\alunocmc\Desktop\Aula27-02\Aula27-02\bin\Debug\Aula27-02.pdb
+C:\Users\alunocmc\Desktop\Aula27-02\Aula27-02\obj\Debug\Aula27-02.csprojResolveAssemblyReference.cache
+C:\Users\alunocmc\Desktop\Aula27-02\Aula27-02\obj\Debug\Aula27_02.frmPrincipal.resources
+C:\Users\alunocmc\Desktop\Aula27-02\Aula27-02\obj\Debug\Aula27_02.Properties.Resources.resources
+C:\Users\alunocmc\Desktop\Aula27-02\Aula27-02\obj\Debug\Aula27-02.csproj.GenerateResource.Cache
+C:\Users\alunocmc\Desktop\Aula27-02\Aula27-02\obj\Debug\Aula27-02.exe
+C:\Users\alunocmc\Desktop\Aula27-02\Aula27-02\obj\Debug\Aula27-02.pdb
+C:\Users\alunocmc\Desktop\Aula27-02\Aula27-02\obj\Debug\Aula27_02.frmCadCliente.resources

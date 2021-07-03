@@ -1,0 +1,30 @@
+/* estilos in-line, interno e externo*/
+/* esse é um arquivo externo*/
+
+@font-face{
+    font-family: 'Roboto';
+    src: url(../fontes/Roboto-Medium.ttf);
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Roboto;
+}
+.arealink{
+    width: 300px;
+    float: left;
+    left: 400px;
+    position: relative;
+    top: 20px;
+    
+    -ms-transform: rotate(20deg);
+    -vebkit-transform: rotate(20deg);
+    transform: rotate(20deg);
+}
+.link{
+    font-size: 20px;
+    font-family: Roboto;
+    text-decoration: none;
+    font-weight: bold
+}
+#lista tr:nth-child(even){background-color: red;};

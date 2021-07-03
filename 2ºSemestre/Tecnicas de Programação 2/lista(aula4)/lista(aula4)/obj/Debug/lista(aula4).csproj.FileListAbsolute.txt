@@ -1,0 +1,12 @@
+c:\users\alunocmc\documents\visual studio 2015\Projects\lista(aula4)\lista(aula4)\bin\Debug\lista(aula4).exe.config
+c:\users\alunocmc\documents\visual studio 2015\Projects\lista(aula4)\lista(aula4)\bin\Debug\lista(aula4).exe
+c:\users\alunocmc\documents\visual studio 2015\Projects\lista(aula4)\lista(aula4)\bin\Debug\lista(aula4).pdb
+c:\users\alunocmc\documents\visual studio 2015\Projects\lista(aula4)\lista(aula4)\obj\Debug\lista(aula4).csprojResolveAssemblyReference.cache
+c:\users\alunocmc\documents\visual studio 2015\Projects\lista(aula4)\lista(aula4)\obj\Debug\lista(aula4).exe
+c:\users\alunocmc\documents\visual studio 2015\Projects\lista(aula4)\lista(aula4)\obj\Debug\lista(aula4).pdb
+C:\Users\alunocmc\Desktop\lista(aula4)\lista(aula4)\bin\Debug\lista(aula4).exe.config
+C:\Users\alunocmc\Desktop\lista(aula4)\lista(aula4)\obj\Debug\lista(aula4).exe
+C:\Users\alunocmc\Desktop\lista(aula4)\lista(aula4)\obj\Debug\lista(aula4).pdb
+C:\Users\alunocmc\Desktop\lista(aula4)\lista(aula4)\bin\Debug\lista(aula4).exe
+C:\Users\alunocmc\Desktop\lista(aula4)\lista(aula4)\bin\Debug\lista(aula4).pdb
+C:\Users\alunocmc\Desktop\lista(aula4)\lista(aula4)\obj\Debug\lista(aula4).csprojResolveAssemblyReference.cache

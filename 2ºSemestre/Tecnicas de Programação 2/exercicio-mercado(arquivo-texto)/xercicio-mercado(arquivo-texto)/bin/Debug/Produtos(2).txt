@@ -1,0 +1,4 @@
+queijo;10;50
+salame;5;70
+laranja;2050;80
+manga;15,5;70

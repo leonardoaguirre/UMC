@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>IMC</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="estilo.css" rel="stylesheet" type="text/css"/>
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="panel-principal">
+            <div class="titulo">
+                <h1>Calcule o seu IMC!</h1>
+            </div>
+            <form action="imc.php">
+                <div class="inputs">                
+                    <div class="input-altura">
+                        <p>Altura:<input type="text" name="txtAltura">m</p>
+                    </div>
+                    <div class="input-peso">
+                        <p>Peso:<input type="text" name="txtPeso">Kg</p>
+                    </div>
+                    <div class="input-botao">
+                        <input type="submit" value="Calcular" id="btnCalc">
+                    </div>
+                </div>
+            </form>
+            <div class="linha">
+            </div>
+            <div class="resultado">
+                <h3><label>Resultado</label></h3>
+                <h1><label id="txtResultado">---</label></h1>
+                <h2><label id="numResultado">---</label></h2>
+            </div>
+        </div>
+    </body>
+</html>

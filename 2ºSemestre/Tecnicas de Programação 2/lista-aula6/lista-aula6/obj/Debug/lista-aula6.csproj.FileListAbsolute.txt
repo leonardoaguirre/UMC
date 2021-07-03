@@ -1,0 +1,6 @@
+C:\Users\alunocmc\Desktop\lista-aula6\lista-aula6\bin\Debug\lista-aula6.exe.config
+C:\Users\alunocmc\Desktop\lista-aula6\lista-aula6\bin\Debug\lista-aula6.exe
+C:\Users\alunocmc\Desktop\lista-aula6\lista-aula6\bin\Debug\lista-aula6.pdb
+C:\Users\alunocmc\Desktop\lista-aula6\lista-aula6\obj\Debug\lista-aula6.csprojResolveAssemblyReference.cache
+C:\Users\alunocmc\Desktop\lista-aula6\lista-aula6\obj\Debug\lista-aula6.exe
+C:\Users\alunocmc\Desktop\lista-aula6\lista-aula6\obj\Debug\lista-aula6.pdb

@@ -1,0 +1,6 @@
+C:\Users\alunocmc\Desktop\Aula1\Aula1\bin\Debug\Aula1.exe.config
+C:\Users\alunocmc\Desktop\Aula1\Aula1\bin\Debug\Aula1.exe
+C:\Users\alunocmc\Desktop\Aula1\Aula1\bin\Debug\Aula1.pdb
+C:\Users\alunocmc\Desktop\Aula1\Aula1\obj\Debug\Aula1.csprojResolveAssemblyReference.cache
+C:\Users\alunocmc\Desktop\Aula1\Aula1\obj\Debug\Aula1.exe
+C:\Users\alunocmc\Desktop\Aula1\Aula1\obj\Debug\Aula1.pdb

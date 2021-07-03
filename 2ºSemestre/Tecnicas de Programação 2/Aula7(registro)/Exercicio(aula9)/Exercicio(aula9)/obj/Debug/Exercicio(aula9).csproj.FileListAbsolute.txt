@@ -1,0 +1,6 @@
+C:\Users\alunocmc\Desktop\Exercicio(aula9)\Exercicio(aula9)\bin\Debug\Exercicio(aula9).exe.config
+C:\Users\alunocmc\Desktop\Exercicio(aula9)\Exercicio(aula9)\bin\Debug\Exercicio(aula9).exe
+C:\Users\alunocmc\Desktop\Exercicio(aula9)\Exercicio(aula9)\bin\Debug\Exercicio(aula9).pdb
+C:\Users\alunocmc\Desktop\Exercicio(aula9)\Exercicio(aula9)\obj\Debug\Exercicio(aula9).csprojResolveAssemblyReference.cache
+C:\Users\alunocmc\Desktop\Exercicio(aula9)\Exercicio(aula9)\obj\Debug\Exercicio(aula9).exe
+C:\Users\alunocmc\Desktop\Exercicio(aula9)\Exercicio(aula9)\obj\Debug\Exercicio(aula9).pdb

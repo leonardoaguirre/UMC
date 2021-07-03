@@ -1,0 +1,6 @@
+C:\Users\alunocmc\Desktop\Matriz\Matriz\bin\Debug\Matriz.exe.config
+C:\Users\alunocmc\Desktop\Matriz\Matriz\bin\Debug\Matriz.exe
+C:\Users\alunocmc\Desktop\Matriz\Matriz\bin\Debug\Matriz.pdb
+C:\Users\alunocmc\Desktop\Matriz\Matriz\obj\Debug\Matriz.csprojResolveAssemblyReference.cache
+C:\Users\alunocmc\Desktop\Matriz\Matriz\obj\Debug\Matriz.exe
+C:\Users\alunocmc\Desktop\Matriz\Matriz\obj\Debug\Matriz.pdb

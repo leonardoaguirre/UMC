@@ -1,0 +1,6 @@
+c:\users\alunocmc\documents\visual studio 2015\Projects\Aula(Arquivo-Texto)\Aula(Arquivo-Texto)\bin\Debug\Aula(Arquivo-Texto).exe.config
+c:\users\alunocmc\documents\visual studio 2015\Projects\Aula(Arquivo-Texto)\Aula(Arquivo-Texto)\bin\Debug\Aula(Arquivo-Texto).exe
+c:\users\alunocmc\documents\visual studio 2015\Projects\Aula(Arquivo-Texto)\Aula(Arquivo-Texto)\bin\Debug\Aula(Arquivo-Texto).pdb
+c:\users\alunocmc\documents\visual studio 2015\Projects\Aula(Arquivo-Texto)\Aula(Arquivo-Texto)\obj\Debug\Aula(Arquivo-Texto).csprojResolveAssemblyReference.cache
+c:\users\alunocmc\documents\visual studio 2015\Projects\Aula(Arquivo-Texto)\Aula(Arquivo-Texto)\obj\Debug\Aula(Arquivo-Texto).exe
+c:\users\alunocmc\documents\visual studio 2015\Projects\Aula(Arquivo-Texto)\Aula(Arquivo-Texto)\obj\Debug\Aula(Arquivo-Texto).pdb

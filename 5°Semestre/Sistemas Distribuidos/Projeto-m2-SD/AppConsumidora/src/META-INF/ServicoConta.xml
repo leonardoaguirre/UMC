@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions targetNamespace="http://DefaultNamespace" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:impl="http://DefaultNamespace" xmlns:intf="http://DefaultNamespace" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!--WSDL created by Apache Axis version: 1.4
+Built on Apr 22, 2006 (06:55:48 PDT)-->
+ <wsdl:types>
+  <schema elementFormDefault="qualified" targetNamespace="http://DefaultNamespace" xmlns="http://www.w3.org/2001/XMLSchema">
+   <element name="consultarDadosConta">
+    <complexType>
+     <sequence>
+      <element name="idConta" type="xsd:int"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="consultarDadosContaResponse">
+    <complexType>
+     <sequence>
+      <element maxOccurs="unbounded" name="consultarDadosContaReturn" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+  </schema>
+ </wsdl:types>
+
+   <wsdl:message name="consultarDadosContaRequest">
+
+      <wsdl:part element="impl:consultarDadosConta" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="consultarDadosContaResponse">
+
+      <wsdl:part element="impl:consultarDadosContaResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:portType name="ServicoConta">
+
+      <wsdl:operation name="consultarDadosConta">
+
+         <wsdl:input message="impl:consultarDadosContaRequest" name="consultarDadosContaRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:consultarDadosContaResponse" name="consultarDadosContaResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:portType>
+
+   <wsdl:binding name="ServicoContaSoapBinding" type="impl:ServicoConta">
+
+      <wsdlsoap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+
+      <wsdl:operation name="consultarDadosConta">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="consultarDadosContaRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="consultarDadosContaResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:binding>
+
+   <wsdl:service name="ServicoContaService">
+
+      <wsdl:port binding="impl:ServicoContaSoapBinding" name="ServicoConta">
+
+         <wsdlsoap:address location="http://localhost:9090/WSBanco/services/ServicoConta"/>
+
+      </wsdl:port>
+
+   </wsdl:service>
+
+</wsdl:definitions>

@@ -1,0 +1,19 @@
+C:\Users\alunocmc\Documents\Aula-8(vetor-de-registro)\Aula-8(vetor-de-registro)\bin\Debug\Aula-8(vetor-de-registro).exe.config
+C:\Users\alunocmc\Documents\Aula-8(vetor-de-registro)\Aula-8(vetor-de-registro)\bin\Debug\Aula-8(vetor-de-registro).exe
+C:\Users\alunocmc\Documents\Aula-8(vetor-de-registro)\Aula-8(vetor-de-registro)\bin\Debug\Aula-8(vetor-de-registro).pdb
+C:\Users\alunocmc\Documents\Aula-8(vetor-de-registro)\Aula-8(vetor-de-registro)\obj\Debug\Aula-8(vetor-de-registro).csprojResolveAssemblyReference.cache
+C:\Users\alunocmc\Documents\Aula-8(vetor-de-registro)\Aula-8(vetor-de-registro)\obj\Debug\Aula-8(vetor-de-registro).exe
+C:\Users\alunocmc\Documents\Aula-8(vetor-de-registro)\Aula-8(vetor-de-registro)\obj\Debug\Aula-8(vetor-de-registro).pdb
+C:\Users\alunocmc\Desktop\Aula-8(vetor-de-registro)\Aula-8(vetor-de-registro)\bin\Debug\Aula-8(vetor-de-registro).exe.config
+C:\Users\alunocmc\Desktop\Aula-8(vetor-de-registro)\Aula-8(vetor-de-registro)\obj\Debug\Aula-8(vetor-de-registro).exe
+C:\Users\alunocmc\Desktop\Aula-8(vetor-de-registro)\Aula-8(vetor-de-registro)\obj\Debug\Aula-8(vetor-de-registro).pdb
+C:\Users\alunocmc\Desktop\Aula-8(vetor-de-registro)\Aula-8(vetor-de-registro)\bin\Debug\Aula-8(vetor-de-registro).exe
+C:\Users\alunocmc\Desktop\Aula-8(vetor-de-registro)\Aula-8(vetor-de-registro)\bin\Debug\Aula-8(vetor-de-registro).pdb
+C:\Users\alunocmc\Desktop\Aula-8(vetor-de-registro)\Aula-8(vetor-de-registro)\obj\Debug\Aula-8(vetor-de-registro).csprojResolveAssemblyReference.cache
+E:\Downloads\Downloads Chrome\Aula-8(vetor-de-registro)\Aula-8(vetor-de-registro)\bin\Debug\Aula-8(vetor-de-registro).exe.config
+E:\Downloads\Downloads Chrome\Aula-8(vetor-de-registro)\Aula-8(vetor-de-registro)\bin\Debug\Aula-8(vetor-de-registro).exe
+E:\Downloads\Downloads Chrome\Aula-8(vetor-de-registro)\Aula-8(vetor-de-registro)\bin\Debug\Aula-8(vetor-de-registro).pdb
+E:\Downloads\Downloads Chrome\Aula-8(vetor-de-registro)\Aula-8(vetor-de-registro)\obj\Debug\Aula-8(vetor-de-registro).csprojAssemblyReference.cache
+E:\Downloads\Downloads Chrome\Aula-8(vetor-de-registro)\Aula-8(vetor-de-registro)\obj\Debug\Aula-8(vetor-de-registro).csproj.CoreCompileInputs.cache
+E:\Downloads\Downloads Chrome\Aula-8(vetor-de-registro)\Aula-8(vetor-de-registro)\obj\Debug\Aula-8(vetor-de-registro).exe
+E:\Downloads\Downloads Chrome\Aula-8(vetor-de-registro)\Aula-8(vetor-de-registro)\obj\Debug\Aula-8(vetor-de-registro).pdb

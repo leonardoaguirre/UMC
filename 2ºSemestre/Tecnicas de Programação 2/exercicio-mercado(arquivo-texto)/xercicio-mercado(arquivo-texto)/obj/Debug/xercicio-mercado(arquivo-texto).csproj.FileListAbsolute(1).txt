@@ -1,0 +1,13 @@
+E:\Documentos\Visual Studio\xercicio-mercado(arquivo-texto)\xercicio-mercado(arquivo-texto)\bin\Debug\xercicio-mercado(arquivo-texto).exe.config
+E:\Documentos\Visual Studio\xercicio-mercado(arquivo-texto)\xercicio-mercado(arquivo-texto)\bin\Debug\xercicio-mercado(arquivo-texto).exe
+E:\Documentos\Visual Studio\xercicio-mercado(arquivo-texto)\xercicio-mercado(arquivo-texto)\bin\Debug\xercicio-mercado(arquivo-texto).pdb
+E:\Documentos\Visual Studio\xercicio-mercado(arquivo-texto)\xercicio-mercado(arquivo-texto)\obj\Debug\xercicio-mercado(arquivo-texto).csprojAssemblyReference.cache
+E:\Documentos\Visual Studio\xercicio-mercado(arquivo-texto)\xercicio-mercado(arquivo-texto)\obj\Debug\xercicio-mercado(arquivo-texto).csproj.CoreCompileInputs.cache
+E:\Documentos\Visual Studio\xercicio-mercado(arquivo-texto)\xercicio-mercado(arquivo-texto)\obj\Debug\xercicio-mercado(arquivo-texto).exe
+E:\Documentos\Visual Studio\xercicio-mercado(arquivo-texto)\xercicio-mercado(arquivo-texto)\obj\Debug\xercicio-mercado(arquivo-texto).pdb
+C:\Users\alunocmc\Downloads\exercicio-mercado(arquivo-texto)\xercicio-mercado(arquivo-texto)\bin\Debug\xercicio-mercado(arquivo-texto).exe.config
+C:\Users\alunocmc\Downloads\exercicio-mercado(arquivo-texto)\xercicio-mercado(arquivo-texto)\obj\Debug\xercicio-mercado(arquivo-texto).exe
+C:\Users\alunocmc\Downloads\exercicio-mercado(arquivo-texto)\xercicio-mercado(arquivo-texto)\obj\Debug\xercicio-mercado(arquivo-texto).pdb
+C:\Users\alunocmc\Downloads\exercicio-mercado(arquivo-texto)\xercicio-mercado(arquivo-texto)\bin\Debug\xercicio-mercado(arquivo-texto).exe
+C:\Users\alunocmc\Downloads\exercicio-mercado(arquivo-texto)\xercicio-mercado(arquivo-texto)\bin\Debug\xercicio-mercado(arquivo-texto).pdb
+C:\Users\alunocmc\Downloads\exercicio-mercado(arquivo-texto)\xercicio-mercado(arquivo-texto)\obj\Debug\xercicio-mercado(arquivo-texto).csprojResolveAssemblyReference.cache

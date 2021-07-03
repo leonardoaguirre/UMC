@@ -1,0 +1,153 @@
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.exe.config
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.exe
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.pdb
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.csprojAssemblyReference.cache
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Properties.Resources.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.csproj.GenerateResource.cache
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.csproj.CoreCompileInputs.cache
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.exe
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.pdb
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Menu.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.CadastroUsuario.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.CadastroCliente.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.EsqueciSenha.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Login.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Splash.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.exe.config
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.exe
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.pdb
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.csprojResolveAssemblyReference.cache
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.CadastroCliente.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.CadastroUsuario.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.EsqueciSenha.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Login.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Menu.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Properties.Resources.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Splash.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.csproj.GenerateResource.Cache
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.exe
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.pdb
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.csprojAssemblyReference.cache
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.CadastroCliente.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.CadastroUsuario.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.EsqueciSenha.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Login.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Menu.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Properties.Resources.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Splash.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.csproj.GenerateResource.cache
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.csproj.CoreCompileInputs.cache
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.exe
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.pdb
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.exe.config
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.exe
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais-20190403T113749Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.pdb
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.exe.config
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.exe
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.pdb
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.csprojAssemblyReference.cache
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.CadastroCliente.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.CadastroUsuario.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.ConsultaCliente.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.EsqueciSenha.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Login.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Menu.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Properties.Resources.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Splash.resources
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.csproj.GenerateResource.cache
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.csproj.CoreCompileInputs.cache
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.exe
+D:\Documentos\SI-UMC\3 Semestre\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.pdb
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.CadastroCliente.resources
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.CadastroUsuario.resources
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.ConsultaCliente.resources
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.EsqueciSenha.resources
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Login.resources
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Menu.resources
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Properties.Resources.resources
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Splash.resources
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.csproj.GenerateResource.cache
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.exe
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.pdb
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.exe.config
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.exe
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.pdb
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Npgsql.dll
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Buffers.dll
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Memory.dll
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.ValueTuple.dll
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Npgsql.xml
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Buffers.xml
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Memory.xml
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.ValueTuple.xml
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.csproj.CopyComplete
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.exe.config
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.exe
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.pdb
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.exe
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.pdb
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Npgsql.dll
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Buffers.dll
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Memory.dll
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.ValueTuple.dll
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Npgsql.xml
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Buffers.xml
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Memory.xml
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.ValueTuple.xml
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.csprojResolveAssemblyReference.cache
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.CadastroCliente.resources
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.CadastroUsuario.resources
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.ConsultaCliente.resources
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.EsqueciSenha.resources
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Login.resources
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Menu.resources
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Properties.Resources.resources
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Splash.resources
+C:\Users\alunocmc\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.csproj.GenerateResource.Cache
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.AlterarCliente.resources
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.ManterCelular.resources
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.manterEndereco.resources
+C:\Users\Leonardo\Desktop\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.RecuperarSenha.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.exe.config
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.exe
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.pdb
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.exe
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Projeto-Ambientes_visuais.pdb
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Npgsql.dll
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Buffers.dll
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Memory.dll
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.ValueTuple.dll
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\Npgsql.xml
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Buffers.xml
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Memory.xml
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\bin\Debug\System.ValueTuple.xml
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.csprojResolveAssemblyReference.cache
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.AlterarCliente.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.CadastroCliente.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.CadastroUsuario.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.ConsultaCliente.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.EsqueciSenha.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Login.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.ManterCelular.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.manterEndereco.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Menu.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Properties.Resources.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.RecuperarSenha.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.Splash.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto-Ambientes_visuais.csproj.GenerateResource.Cache
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.alterarUsuario.resources
+C:\Users\alunocmc\Downloads\Projeto-Ambientes_visuais-20190529T111305Z-001\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\Projeto-Ambientes_visuais\obj\Debug\Projeto_Ambientes_visuais.consultaUsuario.resources

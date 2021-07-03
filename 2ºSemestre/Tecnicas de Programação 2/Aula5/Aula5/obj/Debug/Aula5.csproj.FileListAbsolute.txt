@@ -1,0 +1,13 @@
+C:\Users\alunocmc\Desktop\Aula5\Aula5\bin\Debug\Aula5.exe.config
+C:\Users\alunocmc\Desktop\Aula5\Aula5\bin\Debug\Aula5.exe
+C:\Users\alunocmc\Desktop\Aula5\Aula5\bin\Debug\Aula5.pdb
+C:\Users\alunocmc\Desktop\Aula5\Aula5\obj\Debug\Aula5.csprojResolveAssemblyReference.cache
+C:\Users\alunocmc\Desktop\Aula5\Aula5\obj\Debug\Aula5.exe
+C:\Users\alunocmc\Desktop\Aula5\Aula5\obj\Debug\Aula5.pdb
+E:\Downloads\Downloads Chrome\Aula5\Aula5\obj\Debug\Aula5.csprojAssemblyReference.cache
+E:\Downloads\Downloads Chrome\Aula5\Aula5\obj\Debug\Aula5.csproj.CoreCompileInputs.cache
+E:\Downloads\Downloads Chrome\Aula5\Aula5\obj\Debug\Aula5.exe
+E:\Downloads\Downloads Chrome\Aula5\Aula5\obj\Debug\Aula5.pdb
+E:\Downloads\Downloads Chrome\Aula5\Aula5\bin\Debug\Aula5.exe.config
+E:\Downloads\Downloads Chrome\Aula5\Aula5\bin\Debug\Aula5.exe
+E:\Downloads\Downloads Chrome\Aula5\Aula5\bin\Debug\Aula5.pdb

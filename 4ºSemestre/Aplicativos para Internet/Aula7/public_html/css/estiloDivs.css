@@ -1,0 +1,28 @@
+#container{
+    margin: 0 auto;
+    background-color: #99FF00;
+    width: 950px;
+}
+#esquerda{
+    float: left;
+    background-color: #0033FF;
+    width: 25%;
+}
+#centro{
+    float: left;
+    width: 75%;
+    background-color: #003366;
+    color: #FFFFFF;
+}
+#banner{
+    width: 100%;
+    height: 45px;
+    background-color: #66CCFF;
+    color: #FFFFFF;
+}
+#rodape{
+    clear: both;
+    width: 100%;
+    background-color: #000000;
+    color: #FFFFFF;
+}

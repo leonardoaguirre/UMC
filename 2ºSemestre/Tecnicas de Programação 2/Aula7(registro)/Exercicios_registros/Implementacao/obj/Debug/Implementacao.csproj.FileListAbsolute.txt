@@ -1,0 +1,6 @@
+C:\Users\alunocmc\Desktop\Implementacao\Implementacao\bin\Debug\Implementacao.exe.config
+C:\Users\alunocmc\Desktop\Implementacao\Implementacao\bin\Debug\Implementacao.exe
+C:\Users\alunocmc\Desktop\Implementacao\Implementacao\bin\Debug\Implementacao.pdb
+C:\Users\alunocmc\Desktop\Implementacao\Implementacao\obj\Debug\Implementacao.csprojResolveAssemblyReference.cache
+C:\Users\alunocmc\Desktop\Implementacao\Implementacao\obj\Debug\Implementacao.exe
+C:\Users\alunocmc\Desktop\Implementacao\Implementacao\obj\Debug\Implementacao.pdb

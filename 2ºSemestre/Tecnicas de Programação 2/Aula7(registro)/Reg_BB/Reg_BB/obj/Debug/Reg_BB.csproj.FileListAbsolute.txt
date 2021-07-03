@@ -1,0 +1,6 @@
+C:\Users\alunocmc\Desktop\Reg_BB\Reg_BB\bin\Debug\Reg_BB.exe.config
+C:\Users\alunocmc\Desktop\Reg_BB\Reg_BB\obj\Debug\Reg_BB.csprojResolveAssemblyReference.cache
+C:\Users\alunocmc\Desktop\Reg_BB\Reg_BB\bin\Debug\Reg_BB.exe
+C:\Users\alunocmc\Desktop\Reg_BB\Reg_BB\bin\Debug\Reg_BB.pdb
+C:\Users\alunocmc\Desktop\Reg_BB\Reg_BB\obj\Debug\Reg_BB.exe
+C:\Users\alunocmc\Desktop\Reg_BB\Reg_BB\obj\Debug\Reg_BB.pdb

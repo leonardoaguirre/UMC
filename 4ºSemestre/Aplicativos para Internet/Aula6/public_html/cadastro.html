@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formulário de pessoas</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/estilo.css" type="text/css"/>
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <h1>Cadastro de Otário</h1>
+        <div>
+            <form id="cadastro" action="cadastro.html" method="POST">
+                <label for="lbl_nome">CPF:</label>
+                <input id="txt_text" name="txt_text" type="text" placeholder="Digite aqui seu nome"/>
+                <label for="lbl_email">RG:</label>
+                <input id="txt_email" name="txt_email" type="email" placeholder="Digite aqui seu email"/>
+                <label for="txt_uf">UF de expedição:</label>
+                <select id="sel_uf" name="sel_pais">
+                    <option value="1">Brasil</option>
+                    <option value="2">Uruguai</option> 
+                    <option value="3">Argentina</option>
+                    <option value="4">Paraguai</option> 
+                </select>
+                <label for="lbl_dt_nasc">Data de nascimento:</label>
+                <input id="txt_dt_nasc" name="txt_dt_nasc" type="date" placeholder="Data" required/>
+                <label for="txt_sexo">Sexo:</label>
+                <input id="txt_sexo" name="txt_sexo" type="radio"/><label for="txt_masculino">Masculino</label>
+                <input id="txt_sexo" name="txt_sexo" type="radio"/><label for="txt_feminino">Feminino</label>
+                <input type="submit" value="Gravar"/>
+                <input type="reset" value="Limpar"/>
+            </form>
+        </div>
+    </body>
+</html>

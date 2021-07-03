@@ -1,0 +1,12 @@
+c:\users\alunocmc\documents\visual studio 2015\Projects\Lista-aula3e4\Lista-aula3e4\bin\Debug\Lista-aula3e4.exe.config
+c:\users\alunocmc\documents\visual studio 2015\Projects\Lista-aula3e4\Lista-aula3e4\obj\Debug\Lista-aula3e4.csprojResolveAssemblyReference.cache
+c:\users\alunocmc\documents\visual studio 2015\Projects\Lista-aula3e4\Lista-aula3e4\bin\Debug\Lista-aula3e4.exe
+c:\users\alunocmc\documents\visual studio 2015\Projects\Lista-aula3e4\Lista-aula3e4\bin\Debug\Lista-aula3e4.pdb
+c:\users\alunocmc\documents\visual studio 2015\Projects\Lista-aula3e4\Lista-aula3e4\obj\Debug\Lista-aula3e4.exe
+c:\users\alunocmc\documents\visual studio 2015\Projects\Lista-aula3e4\Lista-aula3e4\obj\Debug\Lista-aula3e4.pdb
+C:\Users\alunocmc\Desktop\Lista-aula3e4\Lista-aula3e4\bin\Debug\Lista-aula3e4.exe.config
+C:\Users\alunocmc\Desktop\Lista-aula3e4\Lista-aula3e4\obj\Debug\Lista-aula3e4.exe
+C:\Users\alunocmc\Desktop\Lista-aula3e4\Lista-aula3e4\obj\Debug\Lista-aula3e4.pdb
+C:\Users\alunocmc\Desktop\Lista-aula3e4\Lista-aula3e4\bin\Debug\Lista-aula3e4.exe
+C:\Users\alunocmc\Desktop\Lista-aula3e4\Lista-aula3e4\bin\Debug\Lista-aula3e4.pdb
+C:\Users\alunocmc\Desktop\Lista-aula3e4\Lista-aula3e4\obj\Debug\Lista-aula3e4.csprojResolveAssemblyReference.cache

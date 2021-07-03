@@ -1,0 +1,10 @@
+c:\users\alunocmc\documents\visual studio 2015\Projects\Aula2\Aula2\bin\Debug\Aula2.exe.config
+c:\users\alunocmc\documents\visual studio 2015\Projects\Aula2\Aula2\bin\Debug\Aula2.exe
+c:\users\alunocmc\documents\visual studio 2015\Projects\Aula2\Aula2\bin\Debug\Aula2.pdb
+c:\users\alunocmc\documents\visual studio 2015\Projects\Aula2\Aula2\obj\Debug\Aula2.csprojResolveAssemblyReference.cache
+c:\users\alunocmc\documents\visual studio 2015\Projects\Aula2\Aula2\obj\Debug\Aula2.Form1.resources
+c:\users\alunocmc\documents\visual studio 2015\Projects\Aula2\Aula2\obj\Debug\Aula2.Properties.Resources.resources
+c:\users\alunocmc\documents\visual studio 2015\Projects\Aula2\Aula2\obj\Debug\Aula2.csproj.GenerateResource.Cache
+c:\users\alunocmc\documents\visual studio 2015\Projects\Aula2\Aula2\obj\Debug\Aula2.exe
+c:\users\alunocmc\documents\visual studio 2015\Projects\Aula2\Aula2\obj\Debug\Aula2.pdb
+c:\users\alunocmc\documents\visual studio 2015\Projects\Aula2\Aula2\obj\Debug\Aula2.Form2.resources

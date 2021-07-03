@@ -1,0 +1,11 @@
+C:\Users\alunocmc\Desktop\aula13-03\aula13-03\bin\Debug\aula13-03.exe.config
+C:\Users\alunocmc\Desktop\aula13-03\aula13-03\bin\Debug\aula13-03.exe
+C:\Users\alunocmc\Desktop\aula13-03\aula13-03\bin\Debug\aula13-03.pdb
+C:\Users\alunocmc\Desktop\aula13-03\aula13-03\obj\Debug\aula13-03.csprojResolveAssemblyReference.cache
+C:\Users\alunocmc\Desktop\aula13-03\aula13-03\obj\Debug\aula13_03.Form1.resources
+C:\Users\alunocmc\Desktop\aula13-03\aula13-03\obj\Debug\aula13_03.Properties.Resources.resources
+C:\Users\alunocmc\Desktop\aula13-03\aula13-03\obj\Debug\aula13-03.csproj.GenerateResource.Cache
+C:\Users\alunocmc\Desktop\aula13-03\aula13-03\obj\Debug\aula13-03.exe
+C:\Users\alunocmc\Desktop\aula13-03\aula13-03\obj\Debug\aula13-03.pdb
+C:\Users\alunocmc\Desktop\aula13-03\aula13-03\obj\Debug\aula13_03.CadastroProd.resources
+C:\Users\alunocmc\Desktop\aula13-03\aula13-03\obj\Debug\aula13_03.CadastroTurmas.resources

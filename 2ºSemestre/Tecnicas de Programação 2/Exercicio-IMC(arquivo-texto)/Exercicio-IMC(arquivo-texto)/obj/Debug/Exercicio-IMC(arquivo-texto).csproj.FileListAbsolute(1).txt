@@ -1,0 +1,14 @@
+C:\Users\alunocmc\Desktop\Exercicio-IMC(arquivo-texto)\Exercicio-IMC(arquivo-texto)\bin\Debug\Exercicio-IMC(arquivo-texto).exe.config
+E:\Downloads\Downloads Chrome\Exercicio-IMC(arquivo-texto)\Exercicio-IMC(arquivo-texto)\bin\Debug\Exercicio-IMC(arquivo-texto).exe.config
+E:\Downloads\Downloads Chrome\Exercicio-IMC(arquivo-texto)\Exercicio-IMC(arquivo-texto)\bin\Debug\Exercicio-IMC(arquivo-texto).exe
+E:\Downloads\Downloads Chrome\Exercicio-IMC(arquivo-texto)\Exercicio-IMC(arquivo-texto)\bin\Debug\Exercicio-IMC(arquivo-texto).pdb
+E:\Downloads\Downloads Chrome\Exercicio-IMC(arquivo-texto)\Exercicio-IMC(arquivo-texto)\obj\Debug\Exercicio-IMC(arquivo-texto).csprojAssemblyReference.cache
+E:\Downloads\Downloads Chrome\Exercicio-IMC(arquivo-texto)\Exercicio-IMC(arquivo-texto)\obj\Debug\Exercicio-IMC(arquivo-texto).csproj.CoreCompileInputs.cache
+E:\Downloads\Downloads Chrome\Exercicio-IMC(arquivo-texto)\Exercicio-IMC(arquivo-texto)\obj\Debug\Exercicio-IMC(arquivo-texto).exe
+E:\Downloads\Downloads Chrome\Exercicio-IMC(arquivo-texto)\Exercicio-IMC(arquivo-texto)\obj\Debug\Exercicio-IMC(arquivo-texto).pdb
+C:\Users\alunocmc\Downloads\Exercicio-IMC(arquivo-texto)\Exercicio-IMC(arquivo-texto)\bin\Debug\Exercicio-IMC(arquivo-texto).exe.config
+C:\Users\alunocmc\Downloads\Exercicio-IMC(arquivo-texto)\Exercicio-IMC(arquivo-texto)\obj\Debug\Exercicio-IMC(arquivo-texto).exe
+C:\Users\alunocmc\Downloads\Exercicio-IMC(arquivo-texto)\Exercicio-IMC(arquivo-texto)\obj\Debug\Exercicio-IMC(arquivo-texto).pdb
+C:\Users\alunocmc\Downloads\Exercicio-IMC(arquivo-texto)\Exercicio-IMC(arquivo-texto)\bin\Debug\Exercicio-IMC(arquivo-texto).exe
+C:\Users\alunocmc\Downloads\Exercicio-IMC(arquivo-texto)\Exercicio-IMC(arquivo-texto)\bin\Debug\Exercicio-IMC(arquivo-texto).pdb
+C:\Users\alunocmc\Downloads\Exercicio-IMC(arquivo-texto)\Exercicio-IMC(arquivo-texto)\obj\Debug\Exercicio-IMC(arquivo-texto).csprojResolveAssemblyReference.cache
