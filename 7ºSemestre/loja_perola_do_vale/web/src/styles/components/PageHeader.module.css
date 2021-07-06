@@ -1,0 +1,196 @@
+.pageHeader {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--primary);
+}
+
+.pageHeader .topBarContainer {
+    width: 95%;
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #000000;
+    padding: 1.6rem 0;
+}
+
+.pageHeader .topBarContainer a, 
+.pageHeader .topBarContainer button {
+    transition: 0.2s;
+}
+
+.pageHeader .topBarContainer a:hover,
+.pageHeader .topBarContainer button:hover {
+    opacity: 0.6;
+}
+
+.pageHeader .topBarContainer .logoContainter a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pageHeader .topBarContainer .logoContainter a #logoImg {
+    height: 7rem;
+}
+
+.pageHeader .topBarContainer .logoContainter a #logoTitle {
+    height: 6rem;
+}
+
+.pageHeader .topBarContainer .inputContainer {
+    background: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 0.6rem 2rem;
+    width: 40%;
+}
+
+.pageHeader .topBarContainer .inputContainer input {
+    height: 3rem;
+    width: 100%;
+    border: 0;
+}
+
+.pageHeader .topBarContainer .inputContainer input:focus {
+    outline: 0;
+}
+
+.pageHeader .topBarContainer .inputContainer button {
+    background: inherit;
+    margin-left: 2rem;
+    border: 0;
+}
+
+.pageHeader .topBarContainer .inputContainer button a {
+    display: flex;
+}
+
+.pageHeader .topBarContainer .inputContainer button a img {
+    height: 2.8rem;
+    width: 2.8rem;
+}
+
+.pageHeader .topBarContainer .userContainer {
+    display: flex;
+    align-items: center;
+    margin: 0rem 2rem;
+}
+
+.pageHeader .topBarContainer .userContainer a img {
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.pageHeader .topBarContainer .userContainer .userInfo {
+    padding-left: 1rem;
+}
+
+.pageHeader .topBarContainer .userContainer .userInfo strong {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    max-width: 20rem;
+    overflow: hidden;
+    text-transform: capitalize;
+}
+
+.pageHeader .topBarContainer .userContainer .userInfo .log button:first-child {
+    border-right: 1px solid #000000;
+    padding-right: 0.3rem;
+    margin-right: 0.3rem;
+}
+
+.pageHeader .topBarContainer .userContainer .userInfo .log button,
+.pageHeader .topBarContainer .userContainer .userInfo .log a {
+    color: #0044ff;
+    border: none;
+    background-color: inherit;
+}
+
+.pageHeader .topBarContainer .userActions {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pageHeader .topBarContainer .userActions a {
+    color: #000000;
+}
+
+.pageHeader .topBarContainer .userActions .shoppingCart {
+    padding-right: 2rem;
+}
+
+.pageHeader .headerContent {
+    width: 100vw;
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    background-color: white;
+}
+
+.pageHeader .headerContent .menu .departmentsDropdown {
+    position: relative;
+
+}
+
+.pageHeader .headerContent .menu .departmentsDropdown .dropdownContent {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 21rem;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.pageHeader .headerContent .menu .departmentsDropdown .dropdownContent a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.pageHeader .headerContent .menu .departmentsDropdown .dropdownButton .arrowAnimation {
+    transition: all ease-in-out;
+}
+
+.pageHeader .headerContent .menu .departmentsDropdown:hover .dropdownButton .arrowAnimation {
+    transform: rotate(180deg);
+}
+
+.pageHeader .headerContent .menu .departmentsDropdown:hover .dropdownContent {
+    background-color: white;
+    display: block;
+}
+
+.pageHeader .headerContent .menu .departmentsDropdown .dropdownContent a:hover {
+    background-color: #f5ffbc;
+}
+
+.pageHeader .headerContent .menu button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0;
+    background-color: inherit;
+}
+
+.pageHeader .headerContent .menu button:focus {
+    outline: 0;
+}
+
+.pageHeader .headerContent .menu button img {
+    opacity: 0.8;
+}
+
+.pageHeader .headerContent .menu button strong {
+    padding-left: 1rem;
+    font-size: 1.8rem;
+}
